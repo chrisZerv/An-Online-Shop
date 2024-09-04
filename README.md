@@ -109,13 +109,13 @@ This is a simple eCommerce website built using Flask. The website allows users t
 ## Screenshots
 
 ### Home Page
-![Home Page](static/images/screenshot_home.png)
+![Home Page](app/static/images/screenshot_home.png)
 
 ### Shopping Cart
-![Shopping Cart](static/images/screenshot_cart.png)
+![Shopping Cart](app/static/images/screenshot_cart.png)
 
 ### Payment Success
-![Payment Success](static/images/screenshot_success.png)
+![Payment Success](app/static/images/screenshot_success.png)
 
 ## Stripe Test Mode
 
